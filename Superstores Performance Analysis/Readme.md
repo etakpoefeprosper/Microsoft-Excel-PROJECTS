@@ -1,11 +1,15 @@
 #  Superstore Performance Analysis Report
 
 ---
+<img width="1107" height="720" alt="image" src="https://github.com/user-attachments/assets/c8d03675-8386-4647-b43c-af62ebaeb86c" />
+
+---
 
 ##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Executive Summary](#executive-summary)
+- [Dashboard](#dashboard)
 - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 - [Sales Performance Analysis](#sales-performance-analysis)
 - [Profitability Analysis](#profitability-analysis)
@@ -36,6 +40,15 @@ The Superstore demonstrates strong commercial performance, generating:
 - **Profit Margin:** 12.47%  
 
 While overall profitability is healthy, performance varies significantly across **regions**, **product sub-categories**, **customers**, and **states**, revealing opportunities for optimization and growth.
+
+---
+##  Dashboard
+
+---
+<img width="1107" height="720" alt="image" src="https://github.com/user-attachments/assets/98244a31-816c-4559-bbfe-31c5648ac87e" />
+
+<img width="1115" height="721" alt="image" src="https://github.com/user-attachments/assets/d07002ee-5c32-4366-bb49-3a96c5597355" />
+
 
 ---
 

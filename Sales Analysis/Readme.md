@@ -1,4 +1,5 @@
-# Excel Sales Data Analysis Using Pivot Tables
+##  Product Group Performance Report
+### Excel Sales Data Analysis Using Pivot Tables
 
 ---
 
@@ -124,6 +125,11 @@ Slicers were implemented to enhance data interaction:
 - Simplified comparative analysis
 
 Slicers allow quick exploration of patterns without modifying Pivot Tables.
+
+---
+## Dashboard 
+
+<img width="1111" height="725" alt="image" src="https://github.com/user-attachments/assets/72dda5d7-49c5-443e-91c9-9fbde4ef1c52" />
 
 ---
 
